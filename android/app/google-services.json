@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74887957871",
+    "firebase_url": "https://bidprint.firebaseio.com",
+    "project_id": "bidprint",
+    "storage_bucket": "bidprint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74887957871:android:3966bb907110012e62ac9a",
+        "android_client_info": {
+          "package_name": "com.skylite.BidPrint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74887957871-b70rq5epdhn93vtlgllfqb981r4nm00c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK1ht7scX4q8ufHvx68FPenoh39H7DzYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74887957871-b70rq5epdhn93vtlgllfqb981r4nm00c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
